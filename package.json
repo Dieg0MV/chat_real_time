@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "18.0.1",
+  "description": "vamos a crear un chat ",
+  "main": "global.js",
+  "scripts": {
+    "test": "npm install mongoose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dieg0MV/zip.git"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dieg0MV/zip/issues"
+  },
+  "homepage": "https://github.com/Dieg0MV/zip#readme",
+  "dependencies": {
+    "mongoose": "^7.3.2"
+  }
+}
